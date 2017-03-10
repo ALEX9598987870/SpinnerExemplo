@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpinnerExemplo</string>
+
+    <string-array name="times">
+        <item>Vitória</item>
+        <item>Real Madrid</item>
+        <item>Barcelona</item>
+        <item>Milan</item>
+    </string-array>
+
+</resources>
